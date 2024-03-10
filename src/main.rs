@@ -18,5 +18,5 @@ fn main() {
 
     println!("\n{}", game);
 
-    println!("\nWinner: {}", game.winner())
+    println!("\nWinner: {}!", game.winner())
 }
